@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Hubballi', cursive;
+}
+
+#momentinhos {
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: #a589ff;
+    border: 1px solid #886ce4;
+    height: 100px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+
+#momentinhos:hover {
+    box-shadow: 0 0 40px 40px #624ab1 inset;
+}
+
+#text1 {
+    margin-top: 30px;
+}
+
+section {
+    text-align: center;
+}

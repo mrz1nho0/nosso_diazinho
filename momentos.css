@@ -1,0 +1,18 @@
+body {
+    font-family: 'Hubballi', cursive;
+    text-align: center;
+}
+
+#img1 {
+    width: 250px;
+    height: 410px;
+}
+
+#img2 {
+    width: 200px;
+    height: 410px;
+}
+
+#momentinhos {
+    cursor: pointer;
+}
